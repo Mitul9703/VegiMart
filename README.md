@@ -43,6 +43,4 @@ To run VegiMart locally on your machine, follow these steps:
 3. Run the application using the command `python main.py`
 
 
-## Conclusion
 
-VegiMart provides a tailored solution for small-scale vegetable vendors, streamlining their operations and improving the overall vegetable shopping experience for customers. By leveraging efficient data structures and OOP concepts, the platform ensures optimal performance and scalability. Whether you are a vendor looking to manage your vegetable items or a customer searching for fresh produce, VegiMart has you covered with its user-friendly interface and robust backend features.
